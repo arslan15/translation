@@ -20,3 +20,4 @@ docker-compose up --build
 * note :-
 need to install postgres db and username and password is postgres as mentioned in application.properties
 you have to call  api auth login endpoint first get the token then you can call that translations api
+** if you wan to run the translationControllerTest and translationserviceTest you need to disbaled security as i do this in project.
