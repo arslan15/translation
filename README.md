@@ -16,3 +16,6 @@ git clone https://github.com/translation/translation.git
 cd translation
 ./mvnw clean package
 docker-compose up --build
+
+* note :-
+need to install postgres db and username and password is postgres as mentioned in application.properties
