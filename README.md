@@ -19,3 +19,4 @@ docker-compose up --build
 
 * note :-
 need to install postgres db and username and password is postgres as mentioned in application.properties
+you have to call  api.aut/login first get the token then you can call that translations api
